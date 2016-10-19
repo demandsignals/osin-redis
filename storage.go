@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
+	"github.com/RangelReale/osin"
 	"github.com/garyburd/redigo/redis"
-	"github.com/rainbowism/osin"
 )
 
 // Storage complies with the osin.Storage interface
